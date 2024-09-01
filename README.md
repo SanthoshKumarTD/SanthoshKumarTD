@@ -1,5 +1,7 @@
 # 💫 About Me:
 I'm Santhosh, a Software Engineer having 11+ years of experience working in various domains like full stack, backend and data engineering.
+Email ID: santoshpatiltd@gmail.com
+Phone no: +91 9591146342
 
 
 ## 🌐 Socials:
